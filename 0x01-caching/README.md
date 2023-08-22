@@ -12,3 +12,4 @@ What MRU means
 What LFU means
 What the purpose of a caching system
 What limits a caching system have
+#Author Jubasstech or Jerome Udoh
